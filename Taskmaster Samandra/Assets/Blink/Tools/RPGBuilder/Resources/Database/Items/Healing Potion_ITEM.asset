@@ -13,27 +13,27 @@ MonoBehaviour:
   m_Name: Healing Potion_ITEM
   m_EditorClassIdentifier: 
   ID: 13
-  entryName: Healing Potion
-  entryFileName: Healing Potion_ITEM
-  entryDisplayName: Healing Potion
-  entryIcon: {fileID: 21300000, guid: 758656f4df641c9499f11dd49416e55d, type: 3}
+  entryName: 
+  entryFileName: _ITEM
+  entryDisplayName: 
+  entryIcon: {fileID: 0}
   entryDescription: Heal for 50 health over 10 seconds.
   _name: 
   _fileName: 
   displayName: 
   icon: {fileID: 0}
   equipmentSlot: 
-  ArmorSlot: {fileID: 11400000, guid: 809a50269aa90f14d96b4bfbbb282b92, type: 2}
+  ArmorSlot: {fileID: 0}
   itemType: 
-  ItemType: {fileID: 11400000, guid: 5e2ebc6b5844dd048884ded8befc8c61, type: 2}
+  ItemType: {fileID: 0}
   weaponType: 
   WeaponType: {fileID: 0}
   armorType: 
-  ArmorType: {fileID: 11400000, guid: b3e9dece47ba97945968b015c97df10d, type: 2}
+  ArmorType: {fileID: 0}
   slotType: 
   WeaponSlot: {fileID: 0}
   rarity: 
-  ItemRarity: {fileID: 11400000, guid: b9b172d058039c24aa4ef8c9bff358cb, type: 2}
+  ItemRarity: {fileID: 0}
   itemModelName: 
   weaponModel: {fileID: 0}
   modelMaterial: {fileID: 0}

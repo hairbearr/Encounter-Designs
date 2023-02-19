@@ -13,10 +13,10 @@ MonoBehaviour:
   m_Name: Frostbolt_EFFECT
   m_EditorClassIdentifier: 
   ID: 20
-  entryName: Frostbolt
-  entryFileName: Frostbolt_EFFECT
-  entryDisplayName: Frostbolt
-  entryIcon: {fileID: 21300000, guid: 1e0f817b5d5649547ab515652b56563f, type: 3}
+  entryName: 
+  entryFileName: _EFFECT
+  entryDisplayName: 
+  entryIcon: {fileID: 0}
   entryDescription: 
   _name: 
   _fileName: 
@@ -40,7 +40,7 @@ MonoBehaviour:
   - ShowedInEditor: 1
     mainDamageType: 2
     secondaryDamageType: 
-    customDamageType: {fileID: 11400000, guid: c313dc209ed403e49aa60496770f947a, type: 2}
+    customDamageType: {fileID: 0}
     customHealingType: {fileID: 0}
     Damage: 8
     alteredStatID: 0

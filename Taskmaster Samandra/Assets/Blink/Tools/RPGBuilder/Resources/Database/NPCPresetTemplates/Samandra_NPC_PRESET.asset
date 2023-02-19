@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ccfcbfff05fa1f94eaa371eb19ed6547, type: 3}
+  m_Name: Samandra_NPC_PRESET
+  m_EditorClassIdentifier: 
+  ID: -1
+  entryName: Samandra
+  entryFileName: Samandra_NPC_PRESET
+  entryDisplayName: 
+  entryIcon: {fileID: 0}
+  entryDescription: 
+  Prefab: {fileID: 1058673984738804, guid: e51c235319ecf524fbabb913e2192e25, type: 3}
+  Position: {x: 0, y: 0, z: 0}
+  Scale: {x: 2, y: 2, z: 2}
+  NameplateYOffset: 2.5
+  NameplateDistance: 50
+  RendererName: 
+  AnimatorController: {fileID: 22100000, guid: 12ba5945ff0cb514e8a8f8e47ce79652, type: 2}
+  AnimatorAvatar: {fileID: 9000000, guid: 3443a9693cfcd8a4fbd4cbbee065454d, type: 3}
+  AnimatorUseRootMotion: 0
+  AnimatorUpdateMode: 0
+  AnimatorCullingMode: 0
+  NavmeshAgentRadius: 0.5
+  NavmeshAgentHeight: 2
+  NavmeshAgentAngularSpeed: 500
+  NavmeshObstacleAvoidance: 0
+  ColliderType: 0
+  ColliderCenter: {x: 0, y: 0, z: 0}
+  ColliderSize: {x: 0, y: 0, z: 0}
+  ColliderRadius: 1
+  ColliderHeight: 2
+  InteractionDistanceMax: 3

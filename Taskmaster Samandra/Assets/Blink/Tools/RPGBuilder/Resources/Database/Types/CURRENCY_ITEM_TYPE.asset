@@ -18,6 +18,6 @@ MonoBehaviour:
   entryDisplayName: CURRENCY
   entryIcon: {fileID: 0}
   entryDescription: 
-  Equippable: 0
-  EquippableFunction: 0
+  CanBeEquipped: 0
+  EquipType: 0
   ItemTypeFunction: 1

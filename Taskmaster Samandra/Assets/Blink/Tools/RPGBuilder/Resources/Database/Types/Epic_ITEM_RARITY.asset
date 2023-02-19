@@ -18,5 +18,5 @@ MonoBehaviour:
   entryDisplayName: Epic
   entryIcon: {fileID: 0}
   entryDescription: 
-  background: {fileID: 21300000, guid: 6f74522d496d84842ad788a9886cb89a, type: 3}
+  background: {fileID: 21300000, guid: babf04bccbaf3994fa10257005203e75, type: 3}
   color: {r: 0.5768835, g: 0.033018887, b: 1, a: 1}

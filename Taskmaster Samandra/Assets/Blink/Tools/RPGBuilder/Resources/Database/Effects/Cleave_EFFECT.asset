@@ -13,10 +13,10 @@ MonoBehaviour:
   m_Name: Cleave_EFFECT
   m_EditorClassIdentifier: 
   ID: 0
-  entryName: Cleave
-  entryFileName: Cleave_EFFECT
-  entryDisplayName: Cleave
-  entryIcon: {fileID: 21300000, guid: cd71f19b816601042be5f0714f32ae20, type: 3}
+  entryName: 
+  entryFileName: _EFFECT
+  entryDisplayName: 
+  entryIcon: {fileID: 0}
   entryDescription: 
   _name: 
   _fileName: 
@@ -40,7 +40,7 @@ MonoBehaviour:
   - ShowedInEditor: 1
     mainDamageType: 1
     secondaryDamageType: 
-    customDamageType: {fileID: 11400000, guid: fb09aee37ff90b64b8035153f509a59e, type: 2}
+    customDamageType: {fileID: 0}
     customHealingType: {fileID: 0}
     Damage: 0
     alteredStatID: 0
@@ -141,7 +141,7 @@ MonoBehaviour:
     - Template: {fileID: 11400000, guid: 829f67edc8d10da45b2df03f6ce34426, type: 2}
       ActivationType: 0
       UseNodeSocket: 0
-      NodeSocket: {fileID: 11400000, guid: ce9910f9467705446a02fec763985733, type: 2}
+      NodeSocket: {fileID: 0}
       ParentedToCaster: 0
       PositionOffset: {x: 0, y: 1, z: 0}
       Scale: {x: 1, y: 1, z: 1}

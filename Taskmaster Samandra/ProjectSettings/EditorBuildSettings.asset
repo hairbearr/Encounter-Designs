@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Taskmaster Samandra.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Blink/Tools/RPGBuilder/Scenes/MainMenu.unity
+    guid: 59589b435ddfedf48ac45ca0aab6638b
+  - enabled: 1
+    path: Assets/Blink/Tools/RPGBuilder/Scenes/DEMO_RPGBuilder2.0.unity
+    guid: 1f6bc91b6f0af0e4d9d9848d3c0323fa
   m_configObjects: {}
