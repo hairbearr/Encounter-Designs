@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.46191627, g: 0.51264817, b: 0.59002495, a: 1}
+  m_IndirectSpecularColor: {r: 0.180469, g: 0.22593547, b: 0.30702788, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -7574,7 +7574,7 @@ MonoBehaviour:
   spawnerType: 0
   IsActive: 0
   spawnData:
-  - npc: {fileID: 11400000, guid: a086d07184013044fa172ae82e3fded3, type: 2}
+  - npc: {fileID: 11400000, guid: 5801b29d7e81c9741861c5182e6caba7, type: 2}
     spawnChance: 100
     IsPersistent: 1
   npcCountMax: 1
